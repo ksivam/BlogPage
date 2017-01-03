@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+Use [Jekyll](https://jekyllrb.com/) to generate git pages   
+Use [gitignore](https://www.gitignore.io/) to generate gitingore files
+
 You can use the [editor on GitHub](https://github.com/ksivam/BlogPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
